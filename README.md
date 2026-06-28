@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Cloud+%2F+Infrastructure+Engineer;Azure+%2B+Terraform+%2B+Databricks;Ex-finance%2C+now+building+platforms" alt="Typing SVG" />
 </p>
 
-My name is Dmitriy and I'm a cloud/infrastructure engineer working mostly in **Azure**, **Terraform**, and **Databricks**. I came up through financial services and securities operations before moving into infra — I still think in terms of risk, audit trails, and "what breaks at 2am" more than most people with my job title. Right now I'm the Azure deployment lead on a platform migration replacing Atlas with Databricks. You can find me at [dmitriyrogozhnikov.xyz](https://dmitriyrogozhnikov.xyz).
+My name is Dmitriy and I'm a cloud/infrastructure engineer working mostly in **Azure**, **Terraform**, and **Databricks**. I came up through financial services and securities operations before moving into infra — I still think in terms of risk, audit trails, and "what breaks at 2am" more than most people with my job title. Right now I'm the Azure deployment lead on a platform integration of Databricks. You can find me at [dmitriyrogozhnikov.xyz](https://dmitriyrogozhnikov.xyz).
 
 ## 🔧 Technologies & Tools
 
